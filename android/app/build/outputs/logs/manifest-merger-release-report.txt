@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/73aed7bac457013d0f1507e8e6e07ea3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/cd3eedce79a5546ed93f0ee00baccb0f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa58a9289455d1ff6b51d3b585abe279/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /home/maddy/.gradle/caches/transforms-2/files-2.1/7c190b94f2e21d26dab5320938e10a32/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/cfa1f60e03e62fce659f3bfe0b3c3ef7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/135bfc3ae685990323aaac7113fecb42/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/04a637527602b052a56e4bba467dc025/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/b9f281044123ea228fe3fdc8873ca36b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/aa6ef82631415af60f04acc4f5dad460/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a007f7723ae58876ba66cdb5ba48e3e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/12523445b1faf7ea574517a2de15dde3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a648a2f568edd56e62ddf435f3db2dfb/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/97a5acb8b8a94cbc9612d97f058045d1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/7f103dcd66db0ec6305ba9d7d4097cce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/edb5db392d16c107c551e75afaaeb48a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/3d68a252787d3a08ed231f65b49af091/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/196b44550613e4f3f669390159fa0c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/338e1d7d456cdd2d3910edcb939d7c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/6c6f6adcc408f08dfed1c8ec48993474/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/d1b3d71fc794c09ec9b07b11f196cfe9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/eb6dfcf96000eb0596fd8ea19258f0f6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/e59d93fd2568287eb5e98852987fb539/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/66442f738e2c26f0ac072c18fb2854f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/61ae1ebe26ae6690616189612b887346/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/8fa672d02c858b29b8d474d77cc0c093/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/14aae40b788fc79036a8ee48d3765b6b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/07f00d4506be40b165b7acbec10a97d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa061393e3a94ba98edac2aca80ac7c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/d6c2416405073e2908cfa8eaffefc7eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/117fb05b1cde344a43c7377176e00aef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/193a9d9a22c0c0c76e251c89fde9f4e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/94f10de918f3a4c80f1c424497af0167/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/73aed7bac457013d0f1507e8e6e07ea3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/73aed7bac457013d0f1507e8e6e07ea3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a648a2f568edd56e62ddf435f3db2dfb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a648a2f568edd56e62ddf435f3db2dfb/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/8fa672d02c858b29b8d474d77cc0c093/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/8fa672d02c858b29b8d474d77cc0c093/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.kitchef.MainActivity
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/maddy/Desktop/chef/kitchef/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/73aed7bac457013d0f1507e8e6e07ea3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/73aed7bac457013d0f1507e8e6e07ea3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/cd3eedce79a5546ed93f0ee00baccb0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/cd3eedce79a5546ed93f0ee00baccb0f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa58a9289455d1ff6b51d3b585abe279/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa58a9289455d1ff6b51d3b585abe279/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /home/maddy/.gradle/caches/transforms-2/files-2.1/7c190b94f2e21d26dab5320938e10a32/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/maddy/.gradle/caches/transforms-2/files-2.1/7c190b94f2e21d26dab5320938e10a32/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/cfa1f60e03e62fce659f3bfe0b3c3ef7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/cfa1f60e03e62fce659f3bfe0b3c3ef7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/135bfc3ae685990323aaac7113fecb42/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/135bfc3ae685990323aaac7113fecb42/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/04a637527602b052a56e4bba467dc025/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/04a637527602b052a56e4bba467dc025/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/b9f281044123ea228fe3fdc8873ca36b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/b9f281044123ea228fe3fdc8873ca36b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/aa6ef82631415af60f04acc4f5dad460/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/aa6ef82631415af60f04acc4f5dad460/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a007f7723ae58876ba66cdb5ba48e3e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a007f7723ae58876ba66cdb5ba48e3e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/12523445b1faf7ea574517a2de15dde3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/12523445b1faf7ea574517a2de15dde3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a648a2f568edd56e62ddf435f3db2dfb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/a648a2f568edd56e62ddf435f3db2dfb/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/97a5acb8b8a94cbc9612d97f058045d1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/97a5acb8b8a94cbc9612d97f058045d1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/7f103dcd66db0ec6305ba9d7d4097cce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/7f103dcd66db0ec6305ba9d7d4097cce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/edb5db392d16c107c551e75afaaeb48a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/edb5db392d16c107c551e75afaaeb48a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/3d68a252787d3a08ed231f65b49af091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/3d68a252787d3a08ed231f65b49af091/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/196b44550613e4f3f669390159fa0c7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/196b44550613e4f3f669390159fa0c7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/338e1d7d456cdd2d3910edcb939d7c7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/338e1d7d456cdd2d3910edcb939d7c7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/6c6f6adcc408f08dfed1c8ec48993474/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/6c6f6adcc408f08dfed1c8ec48993474/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/d1b3d71fc794c09ec9b07b11f196cfe9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/d1b3d71fc794c09ec9b07b11f196cfe9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/eb6dfcf96000eb0596fd8ea19258f0f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/eb6dfcf96000eb0596fd8ea19258f0f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/e59d93fd2568287eb5e98852987fb539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/e59d93fd2568287eb5e98852987fb539/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/2aae70bbd1b1c561b26e395ffad31860/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/66442f738e2c26f0ac072c18fb2854f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/66442f738e2c26f0ac072c18fb2854f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/61ae1ebe26ae6690616189612b887346/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/61ae1ebe26ae6690616189612b887346/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/8fa672d02c858b29b8d474d77cc0c093/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/8fa672d02c858b29b8d474d77cc0c093/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/14aae40b788fc79036a8ee48d3765b6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/14aae40b788fc79036a8ee48d3765b6b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/07f00d4506be40b165b7acbec10a97d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/07f00d4506be40b165b7acbec10a97d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa061393e3a94ba98edac2aca80ac7c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /home/maddy/.gradle/caches/transforms-2/files-2.1/fa061393e3a94ba98edac2aca80ac7c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/d6c2416405073e2908cfa8eaffefc7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/d6c2416405073e2908cfa8eaffefc7eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/117fb05b1cde344a43c7377176e00aef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/117fb05b1cde344a43c7377176e00aef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/193a9d9a22c0c0c76e251c89fde9f4e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/193a9d9a22c0c0c76e251c89fde9f4e1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/94f10de918f3a4c80f1c424497af0167/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/maddy/.gradle/caches/transforms-2/files-2.1/94f10de918f3a4c80f1c424497af0167/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maddy/Desktop/chef/kitchef/android/app/src/main/AndroidManifest.xml

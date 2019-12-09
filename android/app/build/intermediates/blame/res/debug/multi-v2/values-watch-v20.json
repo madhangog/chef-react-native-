@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/maddy/Desktop/chef/kitchef/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/maddy/.gradle/caches/transforms-2/files-2.1/cd3eedce79a5546ed93f0ee00baccb0f/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

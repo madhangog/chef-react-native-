@@ -1,0 +1,4 @@
+#Thu Nov 28 23:28:27 IST 2019
+base.0=/home/maddy/Desktop/chef/kitchef/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
